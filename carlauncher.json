@@ -4,7 +4,7 @@
     "mapUrl": "https://ftp-stud.hs-esslingen.de/pub/Mirrors/download.mapsforge.org/maps/v5/asia/vietnam.map",
     "worldMapUrl": "https://download.mapsforge.org/maps/v5/world/world.map",
     "routingDataUrl": "https://download.mapsforge.org/graphs/asia/vietnam.zip",
-    "regionDataUrl": "https://carlauncher.laptrinhcuocsong.com/data/regions.db.zip",
+    "regionDataUrl": "https://github.com/Tech2-Team/car-launcher/raw/main/regions.db.zip",
     "addressDataUrl": "https://carlauncher.laptrinhcuocsong.com/data/addresses.db.zip",
     "turnLanesDataUrl": "https://carlauncher.laptrinhcuocsong.com/data/turn_lanes.db",
     "spdDb": "https://carlauncher.laptrinhcuocsong.com/data/spddb.db"
